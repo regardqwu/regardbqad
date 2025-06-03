@@ -1,3 +1,9 @@
+# Fake-work Bot
+
+This application just issues a fake commits each day
+
+#super-annoying
+
 # auto-green
 
 [![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
